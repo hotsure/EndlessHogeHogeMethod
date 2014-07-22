@@ -1,0 +1,1 @@
+var hoge=function(){return{hoge:function(){return this}}};
