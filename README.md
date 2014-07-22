@@ -1,6 +1,11 @@
 EndlessHogeHogeMethod
 =====================
 
+What's this?
+------------
+
+無限ほげほげメソッドである
+
 Usage
 -----
 
